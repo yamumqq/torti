@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Торты\Торты\obj\Debug\net6.0\Торты.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Торты\Торты\obj\Debug\net6.0\Торты.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Торты\Торты\obj\Debug\net6.0\Торты.AssemblyInfo.cs
+C:\Users\admin\source\repos\Торты\Торты\obj\Debug\net6.0\Торты.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Торты\Торты\bin\Debug\net6.0\Торты.exe
+C:\Users\admin\source\repos\Торты\Торты\bin\Debug\net6.0\Торты.deps.json
+C:\Users\admin\source\repos\Торты\Торты\bin\Debug\net6.0\Торты.runtimeconfig.json
+C:\Users\admin\source\repos\Торты\Торты\bin\Debug\net6.0\Торты.dll
+C:\Users\admin\source\repos\Торты\Торты\bin\Debug\net6.0\Торты.pdb
+C:\Users\admin\source\repos\Торты\Торты\obj\Debug\net6.0\Торты.dll
+C:\Users\admin\source\repos\Торты\Торты\obj\Debug\net6.0\refint\Торты.dll
+C:\Users\admin\source\repos\Торты\Торты\obj\Debug\net6.0\Торты.pdb
+C:\Users\admin\source\repos\Торты\Торты\obj\Debug\net6.0\Торты.genruntimeconfig.cache
+C:\Users\admin\source\repos\Торты\Торты\obj\Debug\net6.0\ref\Торты.dll
